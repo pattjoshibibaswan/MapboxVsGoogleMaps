@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleMapBox</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoiYXZ1Y2hpIiwiYSI6IjIxNmVjODg3ZmQ5Y2Q4YjRlY2NhZTg4ZjZiODEwNzZjIn0.zb5iusdZ3Avldn7VcmsnJg</string>
+    <string name="digtalglobe_access_token_sk">sk.eyJ1IjoiZGlnaXRhbGdsb2JlIiwiYSI6ImNqOXNxbXFqNjZpdjQyd3BhZzh5OXN6cncifQ.K7Anw-amsbF3-a3_yq9Ucg</string>
+
+</resources>
